@@ -29,7 +29,7 @@
 </p><br><br>
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=A-b-h-i-n-a-v-1-9&theme=radical" alt="Satyajit's Github Stats" />
+<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=BitsnBytes99&theme=radical" alt="Satyajit's Github Stats" />
   </p> 
    <p align='center'>
   <img width="450px" src="https://github-readme-stats.vercel.app/api?username=BitsnBytes99&count_private=true&theme=radical"/>
